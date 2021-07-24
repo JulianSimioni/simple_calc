@@ -12,7 +12,7 @@ EN
 	*Some constants:
 	
 		pi - Returns pi
-		e - Retorns euler's number
+		e - Returns euler's number
 
 	*Trigonometry functions: 
 
