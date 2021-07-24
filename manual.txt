@@ -25,7 +25,13 @@ EN
 		log() -> *Caution*: This is equivalent to ln(), i.e. logarithm in base e
 		log2()
 		log10()
-
+	
+	P.S. In case the calculator displays the message "Erro: Entendi nada.", don't panic, 
+	it's just indentified a virus in your computer.
+	
+	P.S.S Just kidding, it means "Error: couldn't understand." in portuguese, just clear
+	it and go on.
+	
 ----------------------------------------------------------------------------------------------
 
 PT-BR
@@ -55,3 +61,5 @@ PT-BR
 		log() -> *Atenção*: isso é equivalente a ln()
 		log2()
 		log10()
+	
+	**OBS: Utiliza PONTO como separador decimal**
