@@ -62,4 +62,4 @@ PT-BR
 		log2()
 		log10()
 	
-	**OBS: Utiliza PONTO como separador decimal**
+	**OBS: Utilize PONTO como separador decimal**
