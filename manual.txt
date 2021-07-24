@@ -1,0 +1,57 @@
+EN
+
+****** The simple calculator allows you to type the operations directly on its display,
+****** including some of the main scientific calculator functions, as shown bellow.
+
+	*Initializing:
+		
+		Execute the "simple_calc.py" script in a IDE running python 3, make sure
+		the "calc.py"  script (which contains the calculator's layout code) is in
+		the same folder.
+
+	*Some constants:
+	
+		pi - Returns pi
+		e - Retorns euler's number
+
+	*Trigonometry functions: 
+
+		sin(), cos(), tan(), acos(), asin(), atan(),
+		acosh(), asinh(), atanh(), cosh(), sinh(), tanh()
+
+	*Some other useful functions:
+	
+		sqrt()
+		log() -> *Caution*: This is equivalent to ln(), i.e. logarithm in base e
+		log2()
+		log10()
+
+----------------------------------------------------------------------------------------------
+
+PT-BR
+
+****** A calculadora simples permite que os comandos sejam diretamente introduzidos no display,
+****** da maneira mais fria e calculista que há no mercado.
+
+	*Inicializando:
+		
+		Basta executar o script "simple_calc.py" em uma IDE rodando python 3, tenha
+		certeza de que o script "calc.py" (responsável pelo layout da calculadora) 
+		se encontra na mesma pasta.
+
+	*Alguns parâmetros:
+	
+		pi - Retorna o valor de pi
+		e - Retorna o valor do número de euler
+
+	*Funções de trigonometria: 
+
+		sin(), cos(), tan(), acos(), asin(), atan(),
+		acosh(), asinh(), atanh(), cosh(), sinh(), tanh()
+
+	*Algumas outras funções:
+	
+		sqrt()
+		log() -> *Atenção*: isso é equivalente a ln()
+		log2()
+		log10()
